@@ -13,7 +13,7 @@ class MyCicdAppApplicationTests {
 
 	@Test
 	void sampleTest() {
-		
+
 	}
 
 }
