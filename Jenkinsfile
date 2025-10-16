@@ -7,10 +7,10 @@ pipeline {
         maven 'maven3'       // Name of your Maven installation in Jenkins
     }
 
-    environment {
+   // environment {
         // Optional: Set any global variables here
         // BUILD_ENV = 'dev'
-    }
+   // }
 
     options {
         timestamps()          // Add timestamps to console output
